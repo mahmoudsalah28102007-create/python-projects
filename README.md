@@ -1,18 +1,29 @@
 # Python Projects
 
-A collection of Python projects built to practice programming concepts and develop practical problem-solving skills.
+A collection of Python projects focused on practicing programming fundamentals and building step by step.
+
+Each project has its own folder with the source code and a short guide explaining what it does and how to run it.
 
 ## Projects
 
-| Project | Description | Concepts |
-|---|---|---|
-| [YouTube Channel Name Generator](./youtube-channel-name-generator/) | Generates a YouTube channel name suggestion from a nickname and channel topic. | User input, variables, string concatenation |
+### 1. [YouTube Channel Name Generator](./youtube-channel-name-generator/)
 
-## Running a project
+A simple interactive program that suggests a YouTube channel name using a nickname and a channel topic.
 
-Open the project folder in your terminal and run its Python file. For example:
+**Concepts practiced:** `input()`, variables, and string concatenation.
+
+[View source code](./youtube-channel-name-generator/main.py) · [Read project details](./youtube-channel-name-generator/README.md)
+
+## Getting started
+
+1. Open the folder of the project you want to try.
+2. Make sure Python 3 is installed.
+3. Open a terminal in that folder and run:
 
 ```bash
-cd youtube-channel-name-generator
 python main.py
 ```
+
+## About this repository
+
+Projects are added as they are developed. The goal is to keep the code, explanations, and progress clear and easy to follow.
