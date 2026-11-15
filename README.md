@@ -14,6 +14,14 @@ A simple interactive program that suggests a YouTube channel name using a nickna
 
 [View source code](./youtube-channel-name-generator/main.py) · [Read project details](./youtube-channel-name-generator/README.md)
 
+### 2. [Area and Cost Calculator](./area-and-cost-calculator/)
+
+A simple program that calculates the area and total cost using the length, width, and price per square meter.
+
+**Concepts practiced:** `input()`, variables, type conversion with `float()` and `str()`, and multiplication.
+
+[View source code](./area-and-cost-calculator/main.py) · [Read project details](./area-and-cost-calculator/README.md)
+
 ## Getting started
 
 1. Open the folder of the project you want to try.
