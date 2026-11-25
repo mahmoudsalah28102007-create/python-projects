@@ -22,6 +22,14 @@ A simple program that calculates the area and total cost using the length, width
 
 [View source code](./area-and-cost-calculator/main.py) · [Read project details](./area-and-cost-calculator/README.md)
 
+### 3. [Seconds Converter](./seconds-converter/)
+
+A simple program that converts a number of seconds into hours, minutes, and remaining seconds.
+
+**Concepts practiced:** `input()`, variables, `int()`, integer division (`//`), and modulo (`%`).
+
+[View source code](./seconds-converter/main.py) · [Read project details](./seconds-converter/README.md)
+
 ## Getting started
 
 1. Open the folder of the project you want to try.
